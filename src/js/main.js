@@ -45,3 +45,5 @@ angular
       }
     }
   });
+
+  MainController.$inject = ['$scope'];
